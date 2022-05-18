@@ -1,7 +1,7 @@
 # hello-world ❗
 Primeiro teste
 
-##**Esta é a trilha de aprendizado do Github**
+## **Esta é a trilha de aprendizado do Github**
 - Aprender 🤓
 - Repetir 🐲
 - Testar 🧪
